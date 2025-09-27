@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7ada9a5-86ac-424a-b44b-614602b36a97" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/org/example/testCases/TC003_LoginDDT.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/org/example/utilities/ExcelUtil.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="338TtPQm1fo6UIVHSZxqDcW9W13" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.LaunchEdge.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.OpenCartV121 [clean].executor": "Run",
+    "Maven.OpenCartV121 [install].executor": "Run",
+    "Maven.OpenCartV121 [test].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "SHELLCHECK.PATH": "C:\\Users\\dhant\\AppData\\Roaming\\JetBrains\\IdeaIC2025.2\\plugins\\Shell Script\\shellcheck.exe",
+    "TestNG.D:/JAVA SDET Interview/4_Selenium/OpenCartV121/crossbrowser.xml.executor": "Run",
+    "TestNG.D:/JAVA SDET Interview/4_Selenium/OpenCartV121/grouping.xml.executor": "Run",
+    "TestNG.D:/JAVA SDET Interview/4_Selenium/OpenCartV121/master.xml.executor": "Run",
+    "TestNG.TC001_AccountRegistrationClass.verify_account_registration.executor": "Run",
+    "TestNG.TC001_AccountRegistrationTest.executor": "Run",
+    "TestNG.TC001_AccountRegistrationTest.verify_account_registration.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/JAVA SDET Interview/4_Selenium/OpenCartV121/src/test/RoughWork",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA SDET Interview\4_Selenium\OpenCartV121\src\test\RoughWork" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/JAVA SDET Interview/4_Selenium/OpenCartV121/master.xml">
+    <configuration name="D:/JAVA SDET Interview/4_Selenium/OpenCartV121/master.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OpenCartV121" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/master.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC001_AccountRegistrationClass" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OpenCartV121" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.testBase" />
+      <option name="MAIN_CLASS_NAME" value="org.example.testCases.TC001_AccountRegistrationClass" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC001_AccountRegistrationClass.verify_account_registration" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OpenCartV121" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.testBase" />
+      <option name="MAIN_CLASS_NAME" value="org.example.testCases.TC001_AccountRegistrationClass" />
+      <option name="METHOD_NAME" value="verify_account_registration" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TC001_AccountRegistrationClass.verify_account_registration" />
+        <item itemvalue="TestNG.D:/JAVA SDET Interview/4_Selenium/OpenCartV121/master.xml" />
+        <item itemvalue="TestNG.TC001_AccountRegistrationClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7ada9a5-86ac-424a-b44b-614602b36a97" name="Changes" comment="" />
+      <created>1758697916516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758697916516</updated>
+    </task>
+    <servers />
+  </component>
+</project>
