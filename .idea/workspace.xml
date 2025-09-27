@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7ada9a5-86ac-424a-b44b-614602b36a97" name="Changes" comment="" />
+    <list default="true" id="b7ada9a5-86ac-424a-b44b-614602b36a97" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +18,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/test/java/org/example/testCases/TC003_LoginDDT.java" root0="SKIP_INSPECTION" />
@@ -39,6 +44,8 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SHELLCHECK.PATH": "C:\\Users\\dhant\\AppData\\Roaming\\JetBrains\\IdeaIC2025.2\\plugins\\Shell Script\\shellcheck.exe",
     "TestNG.D:/JAVA SDET Interview/4_Selenium/OpenCartV121/crossbrowser.xml.executor": "Run",
     "TestNG.D:/JAVA SDET Interview/4_Selenium/OpenCartV121/grouping.xml.executor": "Run",
@@ -46,6 +53,7 @@
     "TestNG.TC001_AccountRegistrationClass.verify_account_registration.executor": "Run",
     "TestNG.TC001_AccountRegistrationTest.executor": "Run",
     "TestNG.TC001_AccountRegistrationTest.verify_account_registration.executor": "Run",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/JAVA SDET Interview/4_Selenium/OpenCartV121/src/test/RoughWork",
     "project.structure.last.edited": "Project",
